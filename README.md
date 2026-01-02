@@ -42,5 +42,14 @@
     <img src="https://img.shields.io/badge/YouTube-%23EE4831.svg?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
+<div align="center">
+
+
+
+
+Dark Mode
+
 ![Preview Video](Man0dya-contribution-animation-dark.svg)
+
+</div>
 
