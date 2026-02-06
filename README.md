@@ -23,10 +23,7 @@
 ---
 <div align="center">
 
-  <!-- LeetCode Highlight -->
-  <a href="https://leetcode.com/u/dharshini-457/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+
 
   <br><br>
 
